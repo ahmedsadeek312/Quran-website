@@ -1,0 +1,1 @@
+const ahmed = 5;
